@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+
+.blue-color-p-class{
+  background-color: blue;
+  color: white;
+  font: bold;
+}
+
+.suggestion-p-class{
+  color: blue;
+  font-size: small;
+}
+
+.Button-class{
+  margin: 5px 10px;
+}
+
+
+.component-main-div{
+  display: inline-block;
+  text-align: center;
+}
+
+span{
+  color: red;
+  font-size: smaller;
+}
+
+.home-page-Button-class{
+  margin: 15px 20px;
+}
+
+.signup-login-link-but-div{
+  text-align: right;
+}
+
+.signup-link-but, .login-link-but{
+  border: none;
+  background-color: white;
+  color: blue;
+  margin: 5px 10px;
+  text-decoration: underline;
+}
+
+.forgot-pw-link-but{
+  border: none;
+  background-color: white;
+  color: blue;
+  font-size: small;
+  margin: 5px 10px;
+  text-decoration: underline;
+}
+
+.apiCallError-h6-class{
+  color: red;
+}
+
+.apiCallSuccess-h6-class{
+  color: blue;
+}
+
+
+.profile-div{
+  margin: 10px;
+  padding: 10px;
+}
