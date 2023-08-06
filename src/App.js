@@ -11,9 +11,7 @@ function App() {
   return (
     <div className="App">
     
-      <p style={{color : "red", fontSize : "small", margin : "0px"}}>Kindly do not refresh this site when you are on a page other than the home page. </p>
-      <p style={{color : "red", fontSize : "small", margin : "0px"}}> Otherwise, this Netlify deployment will give a "page not found" error.  </p>
-
+     
       <br />
 
 
